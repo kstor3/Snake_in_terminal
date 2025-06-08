@@ -1,0 +1,1 @@
+this is a python code that run snake in the terminal using curses
